@@ -1,6 +1,10 @@
 MIT License
 
-Copyright (c) 2017 Fog Creek Software
+Copyright (c) 2017 Jeff Rafter and Patrick Marsceill 
+
+Based on Passport Example by Fog Creek & 
+
+https://github.com/cfsghost/passport-github/tree/master/examples/login
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
