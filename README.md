@@ -1,25 +1,31 @@
-GitHub Passport Example
-========================
+Emo. 
+====
 
-An example app implementing Github OAuth with Passport.js.
+GitHub OAuth Backend. Collect your thoughts.
 
-## Getting Started
+## Chrome Extension
 
-To bring your own remix to life, you'll need to visit GitHub's [app registration](https://github.com/settings/applications/new) page to create a new oauth app, and use `https://{your-remix}.glitch.me/login/github/return` as the Authorization callback URL.  Once you've done this, place the resulting ClientID and ClientSecret into the `.env` file. 
+Everything is available from the Chrome extension. Install it, log-in and 
+issues and pull requests on GitHub will allow you to record custom reactions.
 
-## View the Code
+https://github.com/jeffrafter/emo/releases
 
-On the back-end,
-- the app starts at `server.js`
-- frameworks and packages are in `package.json`
-- app secrets are safely stored in `.env`
+In fact, you can keep a diary about how you felt along the way. 
 
-On the front-end,
-- edit `index.html` and `success.html`
-- drag in `assets`, like images or music, to add them to your project
+## Otherwise:
+
+https://emo-oauth.glitch.me/
+
+## GitHub Application
+
+https://github.com/settings/applications/656992
 
 
-Made by Fog Creek
------------------
 
-\ ゜o゜)ノ
+
+
+Copyright (c) 2017 Jeff Rafter and Patrick Marsceill 
+
+Based on Passport Example by Fog Creek & 
+
+https://github.com/cfsghost/passport-github/tree/master/examples/login
